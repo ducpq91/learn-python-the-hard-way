@@ -1,0 +1,7 @@
+#To create a file in Powershell:
+  new-item <name> -type file
+
+#To copy a folder (along with all subfolders and files in it):
+  cp -recurse <copied folder> <new folder's name>
+  
+#'-recurse' can be shortened to just '-r'

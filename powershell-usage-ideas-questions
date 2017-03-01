@@ -2,6 +2,12 @@
   new-item <name> -type file
 
 #To copy a folder (along with all subfolders and files in it):
-  cp -recurse <copied folder> <new folder's name>
-  
+  cp -recurse <copied folder> <new folder's name> 
 #'-recurse' can be shortened to just '-r'
+
+# To save current directory's path to return to later:
+  pushd
+# To return to the saved path:
+  popd
+# Simple but very convenient!
+

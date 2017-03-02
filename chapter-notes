@@ -1,0 +1,11 @@
+# Ex 11:
+# Use a comma (,) at the end of a 'print' line so that 'print' does not end the line with a newline character.
+
+# Ex 16:
+# List of commands for reading & writing files:
+#   close -- closes the file object
+#   read -- reads the contents of the file; can assign output to a variable; use <var>.read()
+#   readline -- reads just 1 line of a text file
+#   truncate -- empties the file object; use <var>.truncate()
+#   write('stuff') -- writes "stuff" to the file
+

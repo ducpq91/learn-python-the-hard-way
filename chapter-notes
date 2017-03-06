@@ -9,3 +9,6 @@
 #   truncate -- empties the file object; use <var>.truncate()
 #   write('stuff') -- writes "stuff" to the file
 
+# Ex 20:
+# x = x + y can be shorthanded to x += y
+

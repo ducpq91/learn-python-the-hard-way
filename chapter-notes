@@ -12,3 +12,7 @@
 # Ex 20:
 # x = x + y can be shorthanded to x += y
 
+# Ex 22:
+# return function stores output values of a function in 'temporary' variables that can be passed into explicitly declared variables
+# or can be passed into % format codes (%d, %r, etc.)
+

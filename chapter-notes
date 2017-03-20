@@ -16,3 +16,6 @@
 # return function stores output values of a function in 'temporary' variables that can be passed into explicitly declared variables
 # or can be passed into % format codes (%d, %r, etc.)
 
+# Ex 32:
+# Python documentation on working with Lists (Data Structures)
+# https://docs.python.org/2/tutorial/datastructures.html

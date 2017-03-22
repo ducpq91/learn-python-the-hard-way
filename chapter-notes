@@ -19,3 +19,11 @@
 # Ex 32:
 # Python documentation on working with Lists (Data Structures)
 # https://docs.python.org/2/tutorial/datastructures.html
+
+# Ex 35:
+# Study drill 1: validating input from raw_input; value from raw_input is a string, so in order to evaluate that value, it needs to
+# be converted to a number. An "x in y" operator can check the input string, but the 'x' must be string as well.
+# Study drill 2: using a for-loop with an else-statement, need to be careful not to indent the else-statement, otherwise, the
+# if-statement will (somehow???) not evaluated.
+# http://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops
+# http://python-notes.curiousefficiency.org/en/latest/python_concepts/break_else.html

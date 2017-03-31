@@ -27,3 +27,6 @@
 # if-statement will (somehow???) not evaluated.
 # http://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops
 # http://python-notes.curiousefficiency.org/en/latest/python_concepts/break_else.html
+
+# Ex 36: Write your own game
+# Immutable vs. Mutable types

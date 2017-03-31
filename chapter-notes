@@ -30,3 +30,9 @@
 
 # Ex 36: Write your own game
 # Immutable vs. Mutable types
+# Remember that a function returns a local variable and associated value. You can assign that value to a different variable as follows:
+# var = fun(arg)
+# def fun(arg):
+#   <do something>
+#   return var1
+# This means var = fun(arg) = var1

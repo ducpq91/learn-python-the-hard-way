@@ -36,3 +36,9 @@
 #   <do something>
 #   return var1
 # This means var = fun(arg) = var1
+
+# Ex 39: Dictionary
+# states = {'Oregon': 'OR', 'Florida': 'FL'} -- a dict
+# states.items()
+# > [('Oregon','OR'), ('Florida', 'FL')] -- a list
+# states.get(<input>, <error message>)

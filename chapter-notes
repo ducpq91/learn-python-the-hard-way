@@ -44,3 +44,9 @@
 # states.get(<input>, <error message>)
 # states.keys()
 # > ['Oregon', 'Florida'] -- a list showing just keys
+# Call dict() on a list to make a dictionary
+# li = [("Oregon","OR"), ("Florida","FL")]
+# states = dict(li)
+
+
+

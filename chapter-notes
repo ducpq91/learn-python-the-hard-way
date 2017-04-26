@@ -47,6 +47,7 @@
 # Call dict() on a list to make a dictionary
 # li = [("Oregon","OR"), ("Florida","FL")]
 # states = dict(li)
-
+# Bonus: https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/
+# ^good clarification on *args and **kwargs
 
 

@@ -40,5 +40,7 @@
 # Ex 39: Dictionary
 # states = {'Oregon': 'OR', 'Florida': 'FL'} -- a dict
 # states.items()
-# > [('Oregon','OR'), ('Florida', 'FL')] -- a list
+# > [('Oregon','OR'), ('Florida', 'FL')] -- a list showing both keys and corresponding values
 # states.get(<input>, <error message>)
+# states.keys()
+# > ['Oregon', 'Florida'] -- a list showing just keys
